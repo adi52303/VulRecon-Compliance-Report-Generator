@@ -1,0 +1,5 @@
+theme,iso_control_candidate,total_findings,avg_status,open_items,compliance_status
+Technological,Access control,4,0.0,4,Non-Compliant
+Technological,Secure network services,12,0.0,12,Non-Compliant
+Technological,Use of strong cryptography,20,0.0,20,Non-Compliant
+Technological,Vulnerability management,6,0.0,6,Non-Compliant
