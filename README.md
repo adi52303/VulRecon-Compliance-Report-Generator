@@ -1,4 +1,4 @@
-VulRecon Compliance Report Generator
+### VulRecon Compliance Report Generator
 
 End-to-end Vulnerability → Risk → Compliance pipeline
 Transforms raw recon data into an ISO 27001–aligned Risk Register and Executive PDF Reports in minutes.
