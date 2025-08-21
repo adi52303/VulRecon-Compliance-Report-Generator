@@ -1,0 +1,4 @@
+**/outputs/*
+!**/outputs/.gitkeep
+*.pdf
+charts_*/
